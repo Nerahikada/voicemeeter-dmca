@@ -1,5 +1,7 @@
 # voicemeeter-dmca
 
+A list of great works erased by the author of VoiceMeeter
+
 ## [2022-01-24-voicemeeter.md](https://github.com/github/dmca/blob/master/2022/01/2022-01-24-voicemeeter.md)
 
 * <https://github.com/ImperialCodez/VoiceMeter>
