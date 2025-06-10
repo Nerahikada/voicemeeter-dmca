@@ -29,6 +29,13 @@ A list of great works erased by the author of VoiceMeeter
 
 * <https://github.com/Bix3/voicemeeter-keygen>
 
+## 2024-06-26: VoiceMeeter X.1.1.2 released
+
+Interesting facts: this release candidate includes changes to license activation.  
+The release notes can be found here:
+* <https://forum.vb-audio.com/viewtopic.php?p=7121#p7121>
+* <https://discord.com/channels/755690270795890739/817287289357074445/1255518044743270443>
+
 ## [2024-10-08-voicemeeter.md](https://github.com/github/dmca/blob/master/2024/10/2024-10-08-voicemeeter.md)
 
 * <https://github.com/atroquinine/voicemeeter-activator>
